@@ -1,9 +1,149 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="Página-1" id="qyIsAeTlO3Y44rvjnvDd">
-    <mxGraphModel>
+    <mxGraphModel dx="1866" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-1" value="Usuário entra na&amp;nbsp;&lt;div&gt;seção de investimentos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-2" target="uDsyjWRYNhrPmOkN_ggN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-2" value="Tela com investimentos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-3" target="uDsyjWRYNhrPmOkN_ggN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-3" value="Usuário escolhe o investimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-4" target="uDsyjWRYNhrPmOkN_ggN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-4" value="Usuário entra na seção de ordem de venda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="536" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.442;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-5" target="uDsyjWRYNhrPmOkN_ggN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-5" value="O usuário deve preencher a quantidade do ativo e o valor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="654" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-6" target="uDsyjWRYNhrPmOkN_ggN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-6" value="O usuário deve preencher a senha para confirmação&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="944" y="884" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-7" target="uDsyjWRYNhrPmOkN_ggN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-7" value="O usuário recebe dados de confirmação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.89244079589844" y="1079.9027709960938" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="141" y="1050" />
+              <mxPoint x="141" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-9" target="uDsyjWRYNhrPmOkN_ggN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-9" value="A B3 realiza a verificação da OV até o momento da venda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-10" target="uDsyjWRYNhrPmOkN_ggN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-10" value="Venda emitida" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-11" target="uDsyjWRYNhrPmOkN_ggN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-11" value="Atualização na carteira" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1333" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-12" target="uDsyjWRYNhrPmOkN_ggN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="27" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="1491" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="478.5" y="1496" width="45.25" height="45.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-1" target="uDsyjWRYNhrPmOkN_ggN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-22" value="[Possui investimento&lt;div&gt;na carteira]&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-20" target="uDsyjWRYNhrPmOkN_ggN-5">
+          <mxGeometry x="-0.1125" y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-28" value="[Não possui investimentos&lt;div&gt;&amp;nbsp;na carteira para OV]&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-20" target="uDsyjWRYNhrPmOkN_ggN-3">
+          <mxGeometry x="0.0745" y="-2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="282" y="684" />
+              <mxPoint x="282" y="454" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="665.5" width="62" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-26" value="[Quantidade acima do que na carteira]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-24" target="uDsyjWRYNhrPmOkN_ggN-5">
+          <mxGeometry x="-0.6475" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1006" y="684" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-27" value="[Quantidade existente na carteira]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-24" target="uDsyjWRYNhrPmOkN_ggN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="973" y="768" width="62" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-31" value="[Senha Incorrera]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-29" target="uDsyjWRYNhrPmOkN_ggN-6">
+          <mxGeometry x="0.0421" y="2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1188" y="1065" />
+              <mxPoint x="1188" y="914" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-32" value="[Senha correta]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-29" target="uDsyjWRYNhrPmOkN_ggN-7">
+          <mxGeometry x="-0.0311" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="973" y="1046.5" width="62" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-37" value="[Venda acima do valor de mercado]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-33" target="uDsyjWRYNhrPmOkN_ggN-9">
+          <mxGeometry x="-0.2673" y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-38" value="[Venda abaixo do valor de mercado]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDsyjWRYNhrPmOkN_ggN-33" target="uDsyjWRYNhrPmOkN_ggN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDsyjWRYNhrPmOkN_ggN-33" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="938" width="62" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
